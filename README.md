@@ -1,15 +1,15 @@
 <h1 align="center">Hey!, I'm Lautaro Suarez</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osniaak&label=Profile%20views&color=ed0c6e&style=flat" alt="osniaak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=osniaak&label=Profile%20views&color=ed0c6e&style=flat" alt="osniaak"/> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Social Media</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lautaro-emanuel-guastavino-su%c3%a1rez-b3424728b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautaro-emanuel-guastavino-su%c3%a1rez-b3424728b" height="40" width="40" style="margin-right:30px;"/></a>
 <a href="https://instagram.com/laugsuarezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laugsuarezz" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
