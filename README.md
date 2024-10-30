@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lautaro-emanuel-guastavino-su%c3%a1rez-b3424728b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautaro-emanuel-guastavino-su%c3%a1rez-b3424728b" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/lautaro-emanuel-guastavino-su%c3%a1rez-b3424728b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautaro-emanuel-guastavino-su%c3%a1rez-b3424728b" height="40" width="40" style="margin-right:30px;"/></a>
 <a href="https://instagram.com/laugsuarezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laugsuarezz" height="40" width="40" /></a>
 </p>
 
