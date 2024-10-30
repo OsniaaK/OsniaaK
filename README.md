@@ -1,4 +1,4 @@
-<h1 align="center">Hey!, I'm Lautaro Suarez</h1>
+<h1 align="center">Hey!, I'm Lautaro Suarez 🫶</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer</h3>
 
 <p align="center"> <img src="https://imgs.search.brave.com/owNuVAYyRf1ksqq8eqa5-leWBY3_Qg8nz0prtfK49Ng/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvZG9nLW9u/LWNvbXB1dGVyLTc5/emVwdXdkbDFjMGU4/NzUuZ2lm.gif" alt="dog"/>
@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osniaak&label=Profile%20views&color=ed0c6e&style=flat" alt="osniaak"/> </p>
 
-<h3 align="left">My Social Media</h3>
-<p align="left">
+<h3 align="center">My Social Media 📱</h3>
+<p align="center">
 <a href="https://linkedin.com/in/lautaro-emanuel-guastavino-su%c3%a1rez-b3424728b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautaro-emanuel-guastavino-su%c3%a1rez-b3424728b" height="40" width="40" style="margin-right:30px;"/></a>
 <a href="https://instagram.com/laugsuarezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laugsuarezz" height="40" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Languages and Tools 🔨</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
