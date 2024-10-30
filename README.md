@@ -1,7 +1,7 @@
 <h1 align="center" style="font-weight:bold;">Hey!, I'm Lautaro Suarez</h1>
 <h3 align="center" style="opacity:0.6;">A Passionate Full-Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osniaak&label=Profile%20views&color=000000&style=flat" alt="osniaak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=osniaak&label=Profile%20views&color=ed0c6e&style=flat" alt="osniaak" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
