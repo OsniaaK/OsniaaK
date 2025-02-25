@@ -1,4 +1,4 @@
-<h1 align="center">Hey!, I'm Lautaro Suarez 🫶</h1>
+<h1 align="center">Hey!, I'm Lautaro G Suarez 🫶</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer</h3>
 
 <p align="center"> <img src="https://imgs.search.brave.com/owNuVAYyRf1ksqq8eqa5-leWBY3_Qg8nz0prtfK49Ng/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvZG9nLW9u/LWNvbXB1dGVyLTc5/emVwdXdkbDFjMGU4/NzUuZ2lm.gif" alt="dog"/>
