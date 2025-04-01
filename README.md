@@ -6,11 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osniaak&label=Profile%20views&color=ed0c6e&style=flat" alt="osniaak"/> </p>
 
-<h3 align="center">My Social Media 📱</h3>
-<p align="center">
-<a href="https://instagram.com/laugsuarezz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laugsuarezz" height="40" width="40" /></a>
-</p>
-
 <h3 align="center">Languages and Tools 🔨</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
