@@ -1,7 +1,7 @@
 <h1 align="center">Hey!, I'm Lautaro G Suarez 🫶</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer</h3>
-<h3 align="left">My contact</h3>
-<p align="left">
+<h3 align="center">My contact</h3>
+<p align="center">
 <a href="https://instagram.com/laugsuarez_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laugsuarez_" height="30" width="40" /></a>
 </p>
 
