@@ -1,5 +1,9 @@
 <h1 align="center">Hey!, I'm Lautaro G Suarez 🫶</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer</h3>
+<h3 align="left">My contact</h3>
+<p align="left">
+<a href="https://instagram.com/laugsuarez_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laugsuarez_" height="30" width="40" /></a>
+</p>
 
 <p align="center"> <img src="https://imgs.search.brave.com/owNuVAYyRf1ksqq8eqa5-leWBY3_Qg8nz0prtfK49Ng/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvZG9nLW9u/LWNvbXB1dGVyLTc5/emVwdXdkbDFjMGU4/NzUuZ2lm.gif" alt="dog"/>
 </p>
