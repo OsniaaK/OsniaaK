@@ -2,6 +2,10 @@
 
 ## Desarrollador Full-Stack Web Apasionado
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Happy%20Coder.gif" alt="coding gif"/>
+</p>
+
 ---
 
 ## 📬 Contacto
