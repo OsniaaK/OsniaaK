@@ -2,8 +2,6 @@
 
 ## Desarrollador Full-Stack Web Apasionado
 
-!(https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Tech%20Stack%20floating.gif)
-
 ---
 
 ## 📬 Contacto
