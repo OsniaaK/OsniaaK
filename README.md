@@ -46,6 +46,8 @@
 - 💼 Cuento con otros proyectos como:
 - ✓ Bot de Discord
 - ✓ Shoeroom FrontEnd
+- ¡Te invito a revisar mis repositorios!
+
 ---
 
 ### 👋 ¡Gracias por visitar mi perfil!
