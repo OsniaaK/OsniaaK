@@ -44,8 +44,8 @@
 - 🧰 [Integrador BackEnd](https://github.com/OsniaaK/Integrador-Backend-BACK) — BackEnd side para proyecto integrador final.
 
 - 💼 Cuento con otros proyectos como:
-• Bot de Discord
-• Shoeroom FrontEnd
+- • Bot de Discord
+- • Shoeroom FrontEnd
 ---
 
 ### 👋 ¡Gracias por visitar mi perfil!
