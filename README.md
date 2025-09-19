@@ -20,14 +20,11 @@
 
 ## 🛠️ Tecnologías y Herramientas
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Tech%20Stack%20floating.gif" alt="Tech Stack" width="200" height="200"/>
-</p>
 
-- **Frontend**: React, Next.js, Redux, Tailwind CSS
-- **Backend**: Node.js, Express
-- **Bases de Datos**: MongoDB, PostgreSQL
-- **DevOps**: Docker, AWS, Render, Vercel
+- **Frontend**: HTML5, CCS3, JavaScript, React, React-Router, Next.js, Redux.
+- **Backend**: Node.js, Express.
+- **Bases de Datos**: MongoDB, PostgreSQL.
+- **DevOps**: Docker, Render, Vercel, Koyeb
 - **Testing**: Jest, Supertest
 - **Control de Versiones**: Git, GitHub
 
@@ -39,13 +36,11 @@
 
 ![Shoeroom](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Animated%20Hello%20Banner/hello.gif)
 
-Tienda de zapatillas urbanas online. Backend desarrollado con Node.js y MongoDB.
+Tienda de zapatillas urbanas online. Backend desarrollado con Node.js, Express y MongoDB.
 
-### 🤖 Bot de Discord
+### 🤖 Music Bot for Discord
 
-![Bot de Discord](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Animated%20Hello%20Banner/hello.gif)
-
-Automatiza tareas y mejora la experiencia en servidores de Discord.
+Reproductor de música para servidores de Discord basado en Lavalink con Lavashark. Cuenta con slash commands adicionales (Proyecto Privado)
 
 ---
 
@@ -55,12 +50,6 @@ Automatiza tareas y mejora la experiencia en servidores de Discord.
 - 🎓 Estudiante de Web & Software Developing
 - 🎮 Aficionado a los videojuegos
 - 💬 ¡Amigable!
-
----
-
-## 🎨 Estilo Visual
-
-![Estilo Visual](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Tech%20Stack%20floating.gif)
 
 ---
 
