@@ -49,7 +49,7 @@
 
 ### 🚀 Proyectos Destacados
 
-- 🛒 [Shoeroom](https://github.com/OsniaaK/Shoeroom) — Tienda de zapatillas online con carrito de compras y pasarela de pagos.
+- 🛒 [Shoeroom BackEnd](https://github.com/OsniaaK/Frontend_SHOEROOM) — Tienda de zapatillas urbanas online.
 - 🤖 [Bot de Discord](https://github.com/OsniaaK/discord-bot) — Bot para servidores de Discord con comandos personalizados.
 
 ---
