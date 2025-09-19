@@ -24,9 +24,9 @@
 - **Frontend**: HTML5, CCS3, JavaScript, React, React-Router, Next.js, Redux.
 - **Backend**: Node.js, Express.
 - **Bases de Datos**: MongoDB, PostgreSQL.
-- **DevOps**: Docker, Render, Vercel, Koyeb
-- **Testing**: Jest, Supertest
-- **Control de Versiones**: Git, GitHub
+- **DevOps**: Docker, Render, Vercel, Koyeb.
+- **Testing**: Jest, Supertest.
+- **Control de Versiones**: Git, GitHub.
 
 ---
 
@@ -34,13 +34,13 @@
 
 ### 🛒 Shoeroom
 
-![Shoeroom](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Animated%20Hello%20Banner/hello.gif)
+![Ir al repositorio](https://github.com/OsniaaK/Frontend_SHOEROOM)
 
 Tienda de zapatillas urbanas online. Backend desarrollado con Node.js, Express y MongoDB.
 
 ### 🤖 Music Bot for Discord
 
-Reproductor de música para servidores de Discord basado en Lavalink con Lavashark. Cuenta con slash commands adicionales (Proyecto Privado)
+Reproductor de música para servidores de Discord basado en Lavalink con Lavashark. Cuenta con slash commands adicionales. **(Proyecto Privado)**
 
 ---
 
