@@ -40,7 +40,9 @@ Tienda de zapatillas urbanas online. Backend desarrollado con Node.js, Express y
 
 ### 🤖 Music Bot for Discord
 
-Reproductor de música para servidores de Discord basado en Lavalink con Lavashark. Cuenta con slash commands adicionales. **(Proyecto Privado)**
+**(Proyecto Privado)**
+
+Reproductor de música para servidores de Discord basado en Lavalink con Lavashark. Cuenta con slash commands adicionales.
 
 ---
 
