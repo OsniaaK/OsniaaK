@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Lautaro G. Suárez 🫶
+#¡Hola! 👋 Soy Lautaro G. Suárez 🫶
 
 ## Desarrollador Web Full-Stack
 
