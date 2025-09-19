@@ -50,10 +50,13 @@
 ### 🚀 Proyectos Destacados
 
 - 🛒 [Shoeroom BackEnd](https://github.com/OsniaaK/Frontend_SHOEROOM) — Tienda de zapatillas urbanas online.
-- 🤖 [Bot de Discord](https://github.com/OsniaaK/discord-bot) — Bot para servidores de Discord con comandos personalizados.
+- 🧰 [Integrador BackEnd](https://github.com/OsniaaK/Integrador-Backend-BACK) — BackEnd side para proyecto integrador final.
 
+- 💼 Cuento con otros proyectos como:
+  • Bot de Discord
+  • Shoeroom FrontEnd
 ---
 
 ### 👋 ¡Gracias por visitar mi perfil!
 
-Estoy siempre abierto a colaborar en proyectos interesantes. Si tienes alguna idea o propuesta, no dudes en contactarme. ¡Vamos a construir algo increíble juntos! 💻✨
+Estoy siempre abierto a crear proyectos interesantes. Si tienes alguna idea o propuesta, no dudes en contactarme. ¡Vamos a construir algo increíble juntos! 💻✨
