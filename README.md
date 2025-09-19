@@ -14,9 +14,6 @@
   <a href="https://instagram.com/laugsuarez_" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laugsuarez_" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/laugsuarez/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Animated%20Social%20Icons/linkedin.gif" alt="LinkedIn" width="40" height="40"/>
-  </a>
 </p>
 
 ---
