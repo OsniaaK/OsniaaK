@@ -38,15 +38,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OsniaaK&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsniaaK&theme=tokyonight" alt="streak" />
-</p>
-
----
-
 ### 🚀 Proyectos Destacados
 
 - 🛒 [Shoeroom BackEnd](https://github.com/OsniaaK/Frontend_SHOEROOM) — Tienda de zapatillas urbanas online.
