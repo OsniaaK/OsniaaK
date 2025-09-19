@@ -3,7 +3,7 @@
 ## Desarrollador Full-Stack Web Apasionado
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Happy%20Coder.gif" alt="coding gif"/>
+  <img src="https://imgs.search.brave.com/owNuVAYyRf1ksqq8eqa5-leWBY3_Qg8nz0prtfK49Ng/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvZG9nLW9u/LWNvbXB1dGVyLTc5/emVwdXdkbDFjMGU4/NzUuZ2lm.gif" alt="dog"/>
 </p>
 
 ---
