@@ -34,7 +34,7 @@
 
 ### 🛒 Shoeroom
 
-[Ir al repositorio](https://github.com/OsniaaK/Frontend_SHOEROOM)
+[**Ir al repositorio**](https://github.com/OsniaaK/Frontend_SHOEROOM)
 
 Tienda de zapatillas urbanas online. Backend desarrollado con Node.js, Express y MongoDB.
 
