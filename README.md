@@ -21,7 +21,7 @@
 ## 🛠️ Tecnologías y Herramientas
 
 
-- **Frontend**: HTML5, CCS3, JavaScript, React, React-Router, Next.js, Redux.
+- **Frontend**: HTML5, CCS3, JavaScript, React, Context API, React Router, Next.js, Redux.
 - **Backend**: Node.js, Express.
 - **Bases de Datos**: MongoDB, PostgreSQL.
 - **DevOps**: Docker, Render, Vercel, Koyeb.
